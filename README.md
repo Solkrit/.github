@@ -1,4 +1,4 @@
-# <div align="center"> <img src="assets/logo.png" alt="Solkrit Logo" width="80" align="center"> <br> Solkrit </div>
+# <div align="center"> <img src="https://github.com/Solkrit/rp2040-hid-dongle/blob/main/assets/logo.jpg" alt="Solkrit Logo" width="80" align="center"> <br> Solkrit </div>
 
 <div align="center">
   <h3><b>From Schematic to Shipped Product</b></h3>
